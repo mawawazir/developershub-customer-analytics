@@ -1,0 +1,11 @@
+Best Model: XGBoost
+============================================================
+
+              precision    recall  f1-score   support
+
+    Retained       0.87      0.90      0.88      1188
+     Churned       0.86      0.82      0.84       912
+
+    accuracy                           0.86      2100
+   macro avg       0.86      0.86      0.86      2100
+weighted avg       0.86      0.86      0.86      2100
