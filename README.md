@@ -178,4 +178,4 @@ Open `customer_eda.ipynb` for the full EDA walkthrough, or `model_training_evalu
 
 ---
 
-*Built by Muhammad Aamir as part of a Data Science & Analytics Internship at DevelopersHub Corporation.*
+*Built by Mawa Wazir as part of a Data Science & Analytics Internship at DevelopersHub Corporation.*
